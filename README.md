@@ -12,7 +12,7 @@ VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and 
 ##### Features Include:
 - Hvnc
 - Client screen viewer & recorder
-- Client Antivirus & Integrity manager
+- Client Antivirus & Integrity manager.
 - Client SFTP access including upload & download
 - Client & Server chat window
 - Client Dynamic DNS & Multi-Server support (Configurable)
